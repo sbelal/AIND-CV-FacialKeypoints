@@ -1,3 +1,5 @@
 data/test.csv
 data/training.csv
 .ipynb_checkpoints/CV_project-checkpoint.ipynb
+*.h5
+__pycache__/utils.cpython-35.pyc
